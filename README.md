@@ -9,7 +9,7 @@ Aceda ao [portal Azure](https://portal.azure.com) e faça login com as suas cred
 
 Selecione a o menu *Create a resource* e procure por *Azure AI Services*.
 
-![](https://github.com/vicalmeida/MLearnAI900Lab2/blob/main/img1.png)
+![](https://github.com/vicalmeida/MLearnAI900Lab2/blob/main/images/img1.png)
 
 É necessário preencher a seguinte informação:
 
